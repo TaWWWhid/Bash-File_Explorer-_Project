@@ -1,3 +1,4 @@
+⚠️ Note: This script performs real file operations. It will genuinely create, delete, move, and edit files and folders on your system.
 # 🗂️ Bash File Explorer
 
 This is a terminal-based **File Explorer** built using **Bash scripting**, developed as part of an **Operating System course project**. It allows users to perform various file and directory operations from a user-friendly menu in the Linux terminal.
