@@ -30,3 +30,5 @@ Each option is implemented using core shell utilities (`ls`, `mkdir`, `rm`, `mv`
 - **Platform**: Linux Terminal (Ubuntu)
 - **Editor**: `nano` or `vim` (for editing content)
 
+ ## For any queries, suggestions, or contributions, feel free to contact me!
+
